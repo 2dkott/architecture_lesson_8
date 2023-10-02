@@ -39,7 +39,6 @@ public class Main {
         //Проверить номер столика
         //view.changeReservationTable(1001, new Date(), 30, "Станислав");
 
-        System.out.println("");
     }
 
 }
